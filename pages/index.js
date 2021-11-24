@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>deez/nuts</code>
         </p>
+		<h2>feature2</h2>
       </main>
 
       <Footer />
